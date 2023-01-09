@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓Grado Superior de Desarrollo de Aplicaciones Multiplataforma.<br>✨Interesada en Desarrollo Web, Desarrollo Móvil, UI/UX y Programación.<br>📚 Estoy trabajando para seguir creciendo en este mundo de la programación y estar en continuo aprendizaje.<br>🎨 En mi tiempo libre me encanta crear diseños de aplicaciones con Figma.</p>
+<p align="left">🎓Grado Superior de Desarrollo de Aplicaciones Multiplataforma.<br>✨Interesada en Desarrollo Web, Desarrollo Móvil, UI/UX y Programación.<br>📚 Estoy trabajando para seguir creciendo en este mundo de la programación y estar en continuo aprendizaje.<br>🎨 En mi tiempo libre me encanta aprender aprender cosas nuevas y crear mis propios diseños de aplicaciones con Figma.</p>
 
 ###
 
